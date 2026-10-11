@@ -1,0 +1,8 @@
+Account Number: 12345678
+Account Holder: Sakshi
+Balance: 3000.0
+Transaction History:
+Account created with Rs. 2000.0
+Deposited Rs. 2000.0
+Withdrawn Rs. 1000.0
+-------------------------
