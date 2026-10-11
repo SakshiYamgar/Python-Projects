@@ -1,0 +1,8 @@
+Employee ID: 110
+Name: Saksham
+Basic Salary: 4000.0
+Allowances: 2000.0
+Deductions: 1000.0
+Gross Salary: 6000.0
+Net Salary: 5000.0
+-----------------------------------
